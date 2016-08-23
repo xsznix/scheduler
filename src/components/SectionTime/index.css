@@ -1,0 +1,12 @@
+.SectionTime > .SectionTime-days {
+  display: inline-block;
+  width: 55px;
+  color: #333;
+  font-size: 14px;
+}
+
+.SectionTime > .SectionTime-hours {
+  display: inline-block;
+  color: #333;
+  font-size: 14px;
+}

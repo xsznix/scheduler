@@ -1,0 +1,19 @@
+.CourseListPane {
+  padding: 12px 0;
+  box-sizing: border-box;
+  width: 120px;
+  border-right: 1px solid #ddd;
+  overflow-y: scroll;
+}
+
+.CourseListPane > section + section {
+  margin-top: 16px;
+}
+
+.CourseListPane > section > h3 {
+  margin: 0 12px 8px 12px;
+  color: #888;
+  font-size: 18px;
+  font-weight: 300;
+  text-transform: lowercase;
+}

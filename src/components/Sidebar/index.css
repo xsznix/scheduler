@@ -1,0 +1,7 @@
+.Sidebar {
+  display: flex;
+  flex-direction: row;
+  box-sizing: content-box;
+  width: 600px;
+  border-right: 1px solid #ddd;
+}

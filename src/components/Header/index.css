@@ -1,0 +1,24 @@
+.Header {
+  padding: 0 12px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.125);
+  background: #f8f8f8;
+  color: #777;
+  text-align: center;
+}
+
+.Header .title {
+  display: inline-block;
+  margin: 10px 16px 10px 0;
+  font-size: 18px;
+}
+
+.Header .session {
+  -webkit-appearance: none;
+  padding: 0 8px;
+  border: none;
+  font-family: 'Open Sans';
+  font-size: 18px;
+  font-weight: 300;
+  color: #777;
+  cursor: pointer;
+}
